@@ -1,0 +1,15 @@
+C:\RepositoriosGit\CalculadoraPintura\CalculadoraPintura\bin\Debug\net8.0\CalculadoraPintura.exe
+C:\RepositoriosGit\CalculadoraPintura\CalculadoraPintura\bin\Debug\net8.0\CalculadoraPintura.deps.json
+C:\RepositoriosGit\CalculadoraPintura\CalculadoraPintura\bin\Debug\net8.0\CalculadoraPintura.runtimeconfig.json
+C:\RepositoriosGit\CalculadoraPintura\CalculadoraPintura\bin\Debug\net8.0\CalculadoraPintura.dll
+C:\RepositoriosGit\CalculadoraPintura\CalculadoraPintura\bin\Debug\net8.0\CalculadoraPintura.pdb
+C:\RepositoriosGit\CalculadoraPintura\CalculadoraPintura\obj\Debug\net8.0\CalculadoraPintura.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepositoriosGit\CalculadoraPintura\CalculadoraPintura\obj\Debug\net8.0\CalculadoraPintura.AssemblyInfoInputs.cache
+C:\RepositoriosGit\CalculadoraPintura\CalculadoraPintura\obj\Debug\net8.0\CalculadoraPintura.AssemblyInfo.cs
+C:\RepositoriosGit\CalculadoraPintura\CalculadoraPintura\obj\Debug\net8.0\CalculadoraPintura.csproj.CoreCompileInputs.cache
+C:\RepositoriosGit\CalculadoraPintura\CalculadoraPintura\obj\Debug\net8.0\CalculadoraPintura.sourcelink.json
+C:\RepositoriosGit\CalculadoraPintura\CalculadoraPintura\obj\Debug\net8.0\CalculadoraPintura.dll
+C:\RepositoriosGit\CalculadoraPintura\CalculadoraPintura\obj\Debug\net8.0\refint\CalculadoraPintura.dll
+C:\RepositoriosGit\CalculadoraPintura\CalculadoraPintura\obj\Debug\net8.0\CalculadoraPintura.pdb
+C:\RepositoriosGit\CalculadoraPintura\CalculadoraPintura\obj\Debug\net8.0\CalculadoraPintura.genruntimeconfig.cache
+C:\RepositoriosGit\CalculadoraPintura\CalculadoraPintura\obj\Debug\net8.0\ref\CalculadoraPintura.dll
