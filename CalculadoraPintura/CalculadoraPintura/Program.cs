@@ -9,7 +9,10 @@ namespace CalculadoraPintura
     class Program
     {
         static void Main(string[] args)
+
         {
+            Calculadora calculadora = new Calculadora();
+
             const double Altura = 2.9;
 
             Console.WriteLine("Qual a largura do cômodo em Mts?");
@@ -19,15 +22,15 @@ namespace CalculadoraPintura
             double profundidade = double.Parse(Console.ReadLine());
 
             Console.WriteLine("A área das Paredes é: ");
-            double areaParedes = (2 * (largura + profundidade) * Altura);
-            Console.WriteLine(areaParedes + " Mts");
+            calculadora.areaParedes = (2 * (largura + profundidade) * Altura);
+            Console.WriteLine(calculadora.areaParedes + " Mts");
 
             Console.WriteLine("A área do teto é: ");
-            double areaTeto = (largura * profundidade);
-            Console.WriteLine(areaTeto + " Mts");
+            calculadora.areaTeto = (largura * profundidade);
+            Console.WriteLine(calculadora.areaTeto + " Mts");
 
             Console.WriteLine("A quantidade de tinta necessária é: ");
-            Console.WriteLine((areaTeto + areaParedes) / 10 + " Litros");
+            Console.WriteLine((calculadora.areaTeto + calculadora.areaParedes) / 10 + " Litros");
 
             Console.ReadLine();
 

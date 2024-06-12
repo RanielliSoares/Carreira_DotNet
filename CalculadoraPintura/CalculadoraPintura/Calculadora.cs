@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace CalculadoraPintura
 {
-    internal class Calculadora
+    class Calculadora
     {
+        public double areaParedes;
+        public double areaTeto;
     }
 }
