@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\RepositoriosGit\\CalculadoraPintura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F30976A-DB39-411F-B022-38AF7688C7F3}|CalculadoraPintura\\CalculadoraPintura.csproj|c:\\repositoriosgit\\calculadorapintura\\calculadorapintura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F30976A-DB39-411F-B022-38AF7688C7F3}|CalculadoraPintura\\CalculadoraPintura.csproj|solutionrelative:calculadorapintura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\RepositoriosGit\\CalculadoraPintura\\CalculadoraPintura\\Program.cs",
+              "RelativeDocumentMoniker": "CalculadoraPintura\\Program.cs",
+              "ToolTip": "C:\\RepositoriosGit\\CalculadoraPintura\\CalculadoraPintura\\Program.cs",
+              "RelativeToolTip": "CalculadoraPintura\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:06:46.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
