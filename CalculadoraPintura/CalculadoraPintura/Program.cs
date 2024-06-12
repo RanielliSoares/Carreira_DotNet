@@ -10,9 +10,19 @@ namespace CalculadoraPintura
     {
         static void Main(string[] args)
         {
-            //calculo multiplicação da área
-            Console.WriteLine(2 * (5 + .3) * 2.9);
-            Console.WriteLine(5 * 3);
+            Console.WriteLine("Qual a largura do cômodo?");
+             double largura = double.Parse(Console.ReadLine());
+
+             Console.WriteLine("Qual a profundidade do cômodo?");
+             double profundidade = double.Parse(Console.ReadLine());
+
+             Console.WriteLine("A área das Paredes é: ");
+             Console.WriteLine(2 * (largura + profundidade) * altura);
+
+             Console.WriteLine("A área do teto é: ");
+             Console.WriteLine(largura * profundidade);
+
+             Console.ReadLine();
 
         }
     }
