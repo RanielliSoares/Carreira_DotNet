@@ -10,19 +10,21 @@ namespace CalculadoraPintura
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Qual a largura do cômodo?");
-             double largura = double.Parse(Console.ReadLine());
+            double altura = 3;
 
-             Console.WriteLine("Qual a profundidade do cômodo?");
-             double profundidade = double.Parse(Console.ReadLine());
+            Console.WriteLine("Qual a largura do cômodo em Mts?");
+            double largura = double.Parse(Console.ReadLine());
 
-             Console.WriteLine("A área das Paredes é: ");
-             Console.WriteLine(2 * (largura + profundidade) * altura);
+            Console.WriteLine("Qual a profundidade do cômodo em Mts?");
+            double profundidade = double.Parse(Console.ReadLine());
 
-             Console.WriteLine("A área do teto é: ");
-             Console.WriteLine(largura * profundidade);
+            Console.WriteLine("A área das Paredes é: ");
+            Console.WriteLine(2 * (largura + profundidade) * altura);
 
-             Console.ReadLine();
+            Console.WriteLine("A área do teto é: ");
+            Console.WriteLine(largura * profundidade);
+
+            Console.ReadLine();
 
         }
     }
