@@ -20,11 +20,14 @@ namespace CalculadoraPintura
 
             Console.WriteLine("A área das Paredes é: ");
             double areaParedes = (2 * (largura + profundidade) * altura);
-            Console.WriteLine(areaParedes);
+            Console.WriteLine(areaParedes + " Mts");
 
             Console.WriteLine("A área do teto é: ");
             double areaTeto = (largura * profundidade);
-            Console.WriteLine(areaTeto);
+            Console.WriteLine(areaTeto + " Mts");
+
+            Console.WriteLine("A quantidade de tinta necessária é: ");
+            Console.WriteLine((areaTeto + areaParedes) / 10 + " Litros");
 
             Console.ReadLine();
 
