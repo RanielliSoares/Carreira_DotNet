@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraPintura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dd64f66d99db08e1e2522cc69a52b091ed7b135")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef00c37f0829354a03af6715f612729e28bb3213")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraPintura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraPintura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

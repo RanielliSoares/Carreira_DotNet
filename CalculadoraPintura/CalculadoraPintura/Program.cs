@@ -19,10 +19,12 @@ namespace CalculadoraPintura
             double profundidade = double.Parse(Console.ReadLine());
 
             Console.WriteLine("A área das Paredes é: ");
-            Console.WriteLine(2 * (largura + profundidade) * altura);
+            double areaParedes = (2 * (largura + profundidade) * altura);
+            Console.WriteLine(areaParedes);
 
             Console.WriteLine("A área do teto é: ");
-            Console.WriteLine(largura * profundidade);
+            double areaTeto = (largura * profundidade);
+            Console.WriteLine(areaTeto);
 
             Console.ReadLine();
 
