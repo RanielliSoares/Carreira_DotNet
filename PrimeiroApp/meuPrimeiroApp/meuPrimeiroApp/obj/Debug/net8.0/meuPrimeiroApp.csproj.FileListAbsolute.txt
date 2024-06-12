@@ -1,0 +1,15 @@
+C:\Users\raniellipinho\source\repos\Carreira_DotNet\PrimeiroApp\meuPrimeiroApp\meuPrimeiroApp\bin\Debug\net8.0\meuPrimeiroApp.exe
+C:\Users\raniellipinho\source\repos\Carreira_DotNet\PrimeiroApp\meuPrimeiroApp\meuPrimeiroApp\bin\Debug\net8.0\meuPrimeiroApp.deps.json
+C:\Users\raniellipinho\source\repos\Carreira_DotNet\PrimeiroApp\meuPrimeiroApp\meuPrimeiroApp\bin\Debug\net8.0\meuPrimeiroApp.runtimeconfig.json
+C:\Users\raniellipinho\source\repos\Carreira_DotNet\PrimeiroApp\meuPrimeiroApp\meuPrimeiroApp\bin\Debug\net8.0\meuPrimeiroApp.dll
+C:\Users\raniellipinho\source\repos\Carreira_DotNet\PrimeiroApp\meuPrimeiroApp\meuPrimeiroApp\bin\Debug\net8.0\meuPrimeiroApp.pdb
+C:\Users\raniellipinho\source\repos\Carreira_DotNet\PrimeiroApp\meuPrimeiroApp\meuPrimeiroApp\obj\Debug\net8.0\meuPrimeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raniellipinho\source\repos\Carreira_DotNet\PrimeiroApp\meuPrimeiroApp\meuPrimeiroApp\obj\Debug\net8.0\meuPrimeiroApp.AssemblyInfoInputs.cache
+C:\Users\raniellipinho\source\repos\Carreira_DotNet\PrimeiroApp\meuPrimeiroApp\meuPrimeiroApp\obj\Debug\net8.0\meuPrimeiroApp.AssemblyInfo.cs
+C:\Users\raniellipinho\source\repos\Carreira_DotNet\PrimeiroApp\meuPrimeiroApp\meuPrimeiroApp\obj\Debug\net8.0\meuPrimeiroApp.csproj.CoreCompileInputs.cache
+C:\Users\raniellipinho\source\repos\Carreira_DotNet\PrimeiroApp\meuPrimeiroApp\meuPrimeiroApp\obj\Debug\net8.0\meuPrimeiroApp.sourcelink.json
+C:\Users\raniellipinho\source\repos\Carreira_DotNet\PrimeiroApp\meuPrimeiroApp\meuPrimeiroApp\obj\Debug\net8.0\meuPrimeiroApp.dll
+C:\Users\raniellipinho\source\repos\Carreira_DotNet\PrimeiroApp\meuPrimeiroApp\meuPrimeiroApp\obj\Debug\net8.0\refint\meuPrimeiroApp.dll
+C:\Users\raniellipinho\source\repos\Carreira_DotNet\PrimeiroApp\meuPrimeiroApp\meuPrimeiroApp\obj\Debug\net8.0\meuPrimeiroApp.pdb
+C:\Users\raniellipinho\source\repos\Carreira_DotNet\PrimeiroApp\meuPrimeiroApp\meuPrimeiroApp\obj\Debug\net8.0\meuPrimeiroApp.genruntimeconfig.cache
+C:\Users\raniellipinho\source\repos\Carreira_DotNet\PrimeiroApp\meuPrimeiroApp\meuPrimeiroApp\obj\Debug\net8.0\ref\meuPrimeiroApp.dll
