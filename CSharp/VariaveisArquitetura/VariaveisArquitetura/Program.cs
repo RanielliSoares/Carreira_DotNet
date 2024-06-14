@@ -38,13 +38,25 @@ namespace MyApp // Note: actual namespace depends on the project name.
             int subtracao = numero1 - numero2;
             int divisao = numero1 / numero2;
             int mult = numero1 * numero2;
+            /*
             Console.WriteLine("Total Soma: " + soma);
             Console.WriteLine("Total Subt: " + subtracao);
             Console.WriteLine("Total Divs: " + divisao);
             Console.WriteLine("Total Mult: " + mult);
-
+            */
             /*************************************************/
             /*Operadores condicionais*/
+            // && - E
+            // || - OU
+            // ! - Diferente
+            if(soma == 10)
+            {
+                Console.WriteLine("Numero = 10");
+            }
+            else
+            {
+                Console.WriteLine("numero dferente de 10");
+            }
         }
     }
 }
