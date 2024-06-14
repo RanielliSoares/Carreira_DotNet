@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VariaveisArquitetura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d042f9f3424b4f1690d6b814473114bc0c0eb95a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b05b8e50050a224b27c67da67ef03537b4c9b96")]
 [assembly: System.Reflection.AssemblyProductAttribute("VariaveisArquitetura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VariaveisArquitetura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
