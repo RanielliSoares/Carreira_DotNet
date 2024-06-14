@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraPintura")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("VariaveisArquitetura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e23903ba1d6a2adaba12d6d24e219a57eba6af8d")]
-[assembly: System.Reflection.AssemblyProductAttribute("CalculadoraPintura")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraPintura")]
+[assembly: System.Reflection.AssemblyProductAttribute("VariaveisArquitetura")]
+[assembly: System.Reflection.AssemblyTitleAttribute("VariaveisArquitetura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
