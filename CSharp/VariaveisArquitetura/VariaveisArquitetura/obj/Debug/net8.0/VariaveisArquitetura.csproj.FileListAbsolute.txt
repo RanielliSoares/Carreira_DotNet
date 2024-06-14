@@ -1,0 +1,15 @@
+C:\RepositoriosGit\Carreira_DotNet\CSharp\VariaveisArquitetura\VariaveisArquitetura\bin\Debug\net8.0\VariaveisArquitetura.exe
+C:\RepositoriosGit\Carreira_DotNet\CSharp\VariaveisArquitetura\VariaveisArquitetura\bin\Debug\net8.0\VariaveisArquitetura.deps.json
+C:\RepositoriosGit\Carreira_DotNet\CSharp\VariaveisArquitetura\VariaveisArquitetura\bin\Debug\net8.0\VariaveisArquitetura.runtimeconfig.json
+C:\RepositoriosGit\Carreira_DotNet\CSharp\VariaveisArquitetura\VariaveisArquitetura\bin\Debug\net8.0\VariaveisArquitetura.dll
+C:\RepositoriosGit\Carreira_DotNet\CSharp\VariaveisArquitetura\VariaveisArquitetura\bin\Debug\net8.0\VariaveisArquitetura.pdb
+C:\RepositoriosGit\Carreira_DotNet\CSharp\VariaveisArquitetura\VariaveisArquitetura\obj\Debug\net8.0\VariaveisArquitetura.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepositoriosGit\Carreira_DotNet\CSharp\VariaveisArquitetura\VariaveisArquitetura\obj\Debug\net8.0\VariaveisArquitetura.AssemblyInfoInputs.cache
+C:\RepositoriosGit\Carreira_DotNet\CSharp\VariaveisArquitetura\VariaveisArquitetura\obj\Debug\net8.0\VariaveisArquitetura.AssemblyInfo.cs
+C:\RepositoriosGit\Carreira_DotNet\CSharp\VariaveisArquitetura\VariaveisArquitetura\obj\Debug\net8.0\VariaveisArquitetura.csproj.CoreCompileInputs.cache
+C:\RepositoriosGit\Carreira_DotNet\CSharp\VariaveisArquitetura\VariaveisArquitetura\obj\Debug\net8.0\VariaveisArquitetura.sourcelink.json
+C:\RepositoriosGit\Carreira_DotNet\CSharp\VariaveisArquitetura\VariaveisArquitetura\obj\Debug\net8.0\VariaveisArquitetura.dll
+C:\RepositoriosGit\Carreira_DotNet\CSharp\VariaveisArquitetura\VariaveisArquitetura\obj\Debug\net8.0\refint\VariaveisArquitetura.dll
+C:\RepositoriosGit\Carreira_DotNet\CSharp\VariaveisArquitetura\VariaveisArquitetura\obj\Debug\net8.0\VariaveisArquitetura.pdb
+C:\RepositoriosGit\Carreira_DotNet\CSharp\VariaveisArquitetura\VariaveisArquitetura\obj\Debug\net8.0\VariaveisArquitetura.genruntimeconfig.cache
+C:\RepositoriosGit\Carreira_DotNet\CSharp\VariaveisArquitetura\VariaveisArquitetura\obj\Debug\net8.0\ref\VariaveisArquitetura.dll
