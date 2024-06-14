@@ -1,0 +1,15 @@
+C:\RepositoriosGit\Carreira_DotNet\CSharp\JogoTesteMatematico\JogoTesteMatematico\obj\Debug\net8.0\JogoTesteMatematico.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepositoriosGit\Carreira_DotNet\CSharp\JogoTesteMatematico\JogoTesteMatematico\obj\Debug\net8.0\JogoTesteMatematico.AssemblyInfoInputs.cache
+C:\RepositoriosGit\Carreira_DotNet\CSharp\JogoTesteMatematico\JogoTesteMatematico\obj\Debug\net8.0\JogoTesteMatematico.AssemblyInfo.cs
+C:\RepositoriosGit\Carreira_DotNet\CSharp\JogoTesteMatematico\JogoTesteMatematico\obj\Debug\net8.0\JogoTesteMatematico.csproj.CoreCompileInputs.cache
+C:\RepositoriosGit\Carreira_DotNet\CSharp\JogoTesteMatematico\JogoTesteMatematico\obj\Debug\net8.0\JogoTesteMatematico.sourcelink.json
+C:\RepositoriosGit\Carreira_DotNet\CSharp\JogoTesteMatematico\JogoTesteMatematico\bin\Debug\net8.0\JogoTesteMatematico.exe
+C:\RepositoriosGit\Carreira_DotNet\CSharp\JogoTesteMatematico\JogoTesteMatematico\bin\Debug\net8.0\JogoTesteMatematico.deps.json
+C:\RepositoriosGit\Carreira_DotNet\CSharp\JogoTesteMatematico\JogoTesteMatematico\bin\Debug\net8.0\JogoTesteMatematico.runtimeconfig.json
+C:\RepositoriosGit\Carreira_DotNet\CSharp\JogoTesteMatematico\JogoTesteMatematico\bin\Debug\net8.0\JogoTesteMatematico.dll
+C:\RepositoriosGit\Carreira_DotNet\CSharp\JogoTesteMatematico\JogoTesteMatematico\bin\Debug\net8.0\JogoTesteMatematico.pdb
+C:\RepositoriosGit\Carreira_DotNet\CSharp\JogoTesteMatematico\JogoTesteMatematico\obj\Debug\net8.0\JogoTesteMatematico.dll
+C:\RepositoriosGit\Carreira_DotNet\CSharp\JogoTesteMatematico\JogoTesteMatematico\obj\Debug\net8.0\refint\JogoTesteMatematico.dll
+C:\RepositoriosGit\Carreira_DotNet\CSharp\JogoTesteMatematico\JogoTesteMatematico\obj\Debug\net8.0\JogoTesteMatematico.pdb
+C:\RepositoriosGit\Carreira_DotNet\CSharp\JogoTesteMatematico\JogoTesteMatematico\obj\Debug\net8.0\JogoTesteMatematico.genruntimeconfig.cache
+C:\RepositoriosGit\Carreira_DotNet\CSharp\JogoTesteMatematico\JogoTesteMatematico\obj\Debug\net8.0\ref\JogoTesteMatematico.dll
