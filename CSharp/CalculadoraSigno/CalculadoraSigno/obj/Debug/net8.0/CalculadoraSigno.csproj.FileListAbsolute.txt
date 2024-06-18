@@ -1,0 +1,15 @@
+C:\RepositoriosGit\Carreira_DotNet\CSharp\CalculadoraSigno\CalculadoraSigno\bin\Debug\net8.0\CalculadoraSigno.exe
+C:\RepositoriosGit\Carreira_DotNet\CSharp\CalculadoraSigno\CalculadoraSigno\bin\Debug\net8.0\CalculadoraSigno.deps.json
+C:\RepositoriosGit\Carreira_DotNet\CSharp\CalculadoraSigno\CalculadoraSigno\bin\Debug\net8.0\CalculadoraSigno.runtimeconfig.json
+C:\RepositoriosGit\Carreira_DotNet\CSharp\CalculadoraSigno\CalculadoraSigno\bin\Debug\net8.0\CalculadoraSigno.dll
+C:\RepositoriosGit\Carreira_DotNet\CSharp\CalculadoraSigno\CalculadoraSigno\bin\Debug\net8.0\CalculadoraSigno.pdb
+C:\RepositoriosGit\Carreira_DotNet\CSharp\CalculadoraSigno\CalculadoraSigno\obj\Debug\net8.0\CalculadoraSigno.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepositoriosGit\Carreira_DotNet\CSharp\CalculadoraSigno\CalculadoraSigno\obj\Debug\net8.0\CalculadoraSigno.AssemblyInfoInputs.cache
+C:\RepositoriosGit\Carreira_DotNet\CSharp\CalculadoraSigno\CalculadoraSigno\obj\Debug\net8.0\CalculadoraSigno.AssemblyInfo.cs
+C:\RepositoriosGit\Carreira_DotNet\CSharp\CalculadoraSigno\CalculadoraSigno\obj\Debug\net8.0\CalculadoraSigno.csproj.CoreCompileInputs.cache
+C:\RepositoriosGit\Carreira_DotNet\CSharp\CalculadoraSigno\CalculadoraSigno\obj\Debug\net8.0\CalculadoraSigno.sourcelink.json
+C:\RepositoriosGit\Carreira_DotNet\CSharp\CalculadoraSigno\CalculadoraSigno\obj\Debug\net8.0\CalculadoraSigno.dll
+C:\RepositoriosGit\Carreira_DotNet\CSharp\CalculadoraSigno\CalculadoraSigno\obj\Debug\net8.0\refint\CalculadoraSigno.dll
+C:\RepositoriosGit\Carreira_DotNet\CSharp\CalculadoraSigno\CalculadoraSigno\obj\Debug\net8.0\CalculadoraSigno.pdb
+C:\RepositoriosGit\Carreira_DotNet\CSharp\CalculadoraSigno\CalculadoraSigno\obj\Debug\net8.0\CalculadoraSigno.genruntimeconfig.cache
+C:\RepositoriosGit\Carreira_DotNet\CSharp\CalculadoraSigno\CalculadoraSigno\obj\Debug\net8.0\ref\CalculadoraSigno.dll
