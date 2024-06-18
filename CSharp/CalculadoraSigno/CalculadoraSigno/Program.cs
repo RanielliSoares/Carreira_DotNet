@@ -7,6 +7,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
+            //instanciando o objeto Signo
             Signo signo = new Signo();
 
             signo.caracteristicas = "Você é legal";

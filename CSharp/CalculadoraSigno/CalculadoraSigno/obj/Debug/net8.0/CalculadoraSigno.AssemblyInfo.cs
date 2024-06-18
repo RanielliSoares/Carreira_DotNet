@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraSigno")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2b36c037419555369d291ea7fa7908170a40a66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6392cc65bcda505c5eeabc00439c73ef7fb6c23")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraSigno")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraSigno")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
